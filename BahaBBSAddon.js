@@ -3,7 +3,7 @@
 // @namespace    https://greasyfork.org/zh-TW/scripts/393447
 // @supportURL   https://github.com/plko/Bahamut-webBBS-Add-on
 // @description  巴哈姆特webBBS版用的黑名單插件，修改自PttChrome-and-term.ptt.cc-Enhanced-Add-on
-// @version      0.9b
+// @version      0.9c
 // @license      MIT
 // @author       plko
 // @compatible   firefox
@@ -11,7 +11,7 @@
 // @include      https://term.gamer.com.tw/
 // @require      https://cdnjs.cloudflare.com/ajax/libs/axios/0.18.0/axios.min.js
 // @require      https://cdnjs.cloudflare.com/ajax/libs/lz-string/1.4.4/lz-string.min.js
-// @require      https://openuserjs.org/src/libs/sizzle/GM_config.js
+// @require      https://update.greasyfork.org/scripts/480183/1282331/GM_config_sync.js
 // @require      https://greasyfork.org/scripts/372760-gm-config-lz-string/code/GM_config_lz-string.js?version=634230
 // @require      https://greasyfork.org/scripts/372675-flags-css/code/Flags-CSS.js?version=632757
 // @grant        GM_getValue
